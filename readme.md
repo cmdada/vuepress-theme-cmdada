@@ -53,7 +53,7 @@ __options__ : `PlumeThemeOptions`
 
 ### Notice
 
-This theme is based on `vuepress 2` and is in RC stage.
+This theme is based on `vuepress-theme-plume` and is just made for my stuff.
 
 This means functionality has stabilized, but there is still a small chance of breaking changes in the future.
 
